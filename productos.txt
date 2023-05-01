@@ -1,0 +1,80 @@
+001,Arroz,25.20,Canasta,12,3,20
+002,Frijoles,15.50,Canasta,20,5,10
+003,Leche,22.80,Lacteos,8,2,15
+004,Yogurt,18.60,Lacteos,15,4,10
+005,Pan blanco,8.50,Panaderia,30,6,5
+006,Pan integral,9.50,Panaderia,25,5,5
+007,Huevos,26.70,Proteinas,10,2,10
+008,Pollo entero,120.00,Proteinas,5,1,5
+009,Carne de res,160.00,Proteinas,6,1,5
+010,Pescado,90.00,Proteinas,8,1,5
+011,Papas,12.00,Verduras,20,5,10
+012,Zanahorias,9.50,Verduras,18,4,15
+013,Brócoli,16.80,Verduras,12,3,20
+014,Calabacín,8.90,Verduras,15,3,15
+015,Tomates,18.00,Frutas,14,3,10
+016,Fresas,24.50,Frutas,8,2,10
+017,Plátanos,15.00,Frutas,16,4,5
+018,Uvas,32.00,Frutas,10,3,10
+019,Agua mineral,6.50,Bebidas,40,10,5
+020,Jugo de naranja,12.00,Bebidas,25,5,15
+021,Refresco cola,9.50,Bebidas,35,8,10
+022,Cerveza,18.00,Bebidas,20,6,5
+023,Arroz integral,28.50,Canasta,10,2,10
+024,Lentejas,14.20,Canasta,18,4,15
+025,Harina de trigo,10.80,Canasta,22,5,10
+026,Azúcar,9.90,Canasta,30,8,5
+027,Salsa de tomate,7.50,Condimentos,35,10,5
+028,Sal,3.50,Condimentos,45,15,10
+029,Aceite de oliva,45.00,Condimentos,12,2,15
+030,Mayonesa,8.00,Condimentos,28,6,5
+031,Mantequilla,12.00,Lacteos,20,4,10
+032,Queso cheddar,28.50,Lacteos,15,3,15
+033,Yogurt griego,25.00,Lacteos,10,2,10
+034,Crema de leche,17.50,Lacteos,18,4,10
+035,Manzanas,20.00,Frutas,12,3,10
+036,Naranjas,14.50,Frutas,16
+037,Peras,18.00,Frutas,14,3,10
+038,Mangos,22.00,Frutas,10,2,15
+039,Piñas,24.00,Frutas,8,2,20
+040,Plátanos machos,12.50,Verduras,25,5,5
+041,Espinacas,13.80,Verduras,20,4,10
+042,Pimientos,11.50,Verduras,22,5,10
+043,Cebolla,7.50,Verduras,30,8,5
+044,Jitomates,15.00,Verduras,18,4,10
+045,Atún enlatado,14.00,Proteinas,18,4,15
+046,Salchichas,10.50,Proteinas,25,6,5
+047,Carne molida,120.00,Proteinas,8,1,5
+048,Hamburguesas,28.00,Proteinas,12,3,10
+049,Pasta de dientes,12.50,Higiene,20,5,10
+050,Toallas sanitarias,8.00,Higiene,30,8,5
+051,Jabón de baño,6.50,Higiene,35,10,5
+052,Champú,15.00,Higiene,18,4,10
+053,Pañales para bebé,24.50,Higiene,12,3,15
+054,Detergente en polvo,28.50,Limpieza,10,2,10
+055,Líquido limpiador,10.80,Limpieza,25,5,5
+056,Toallas de papel,6.50,Limpieza,35,8,5
+057,Desinfectante,16.00,Limpieza,18,4,10
+058,Esponjas de cocina,4.50,Limpieza,30,8,5
+059,Pan de caja,15.50,Panaderia,18,4,10
+060,Baguettes,8.90,Panaderia,25,5,5
+061,Churros,12.50,Panaderia,14,3,10
+062,Galletas saladas,7.50,Snacks,30,8,510
+063,Palomitas de maíz,10.50,Snacks,20,5,10
+064,Papas fritas,12.00,Snacks,18,4,10
+065,Chocolate,20.00,Dulces,15,3,10
+066,Paletas de hielo,5.50,Dulces,35,8,5
+067,Chicles,2.50,Dulces,40,10,5
+068,Pastel de chocolate,30.00,Postres,6,1,5
+069,Flan,12.50,Postres,12,3,10
+070,Gelatina,7.50,Postres,18,4,10
+071,Pudín de vainilla,9.80,Postres,16,4,10
+072,Ensalada César,35.00,ComidasPreparadas,10,2,10
+073,Pizza Hawaiana,55.00,ComidasPreparadas,8,1,5
+074,Spaghetti a la bolognesa,28.00,ComidasPreparadas,14,3,10
+075,Sopa de pollo,18.50,ComidasPreparadas,20,5,5
+076,Té verde,10.00,Bebidas,25,6,5
+077,Refresco de cola,12.50,Bebidas,20,5,10
+078,Jugo de naranja,18.00,Bebidas,16,4,10
+079,Cerveza,25.00,Bebidas,12,3,15
+080,Agua embotellada,6.50,Bebidas,30,8,5
