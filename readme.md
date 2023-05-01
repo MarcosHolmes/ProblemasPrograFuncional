@@ -33,6 +33,3 @@ v1.0
 ## License
 
 Sin licencia.
-
-## Acknowledgments
-Código basado a lo visto en clase.
